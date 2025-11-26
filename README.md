@@ -180,7 +180,7 @@ Multistrategy Learning for Document Recognition. *Applied Artificial Intelligenc
 
 ## 👨‍🎓 Autor
 
-**Saulo Beni**
+**Saulo Benício**
 Universidade de Fortaleza — UNIFOR
 Curso: Ciência da Computação
 Disciplina: Inteligência Artificial Computacional
