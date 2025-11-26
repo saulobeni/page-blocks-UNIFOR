@@ -1,7 +1,3 @@
-Perfeito, vamos deixar seu repositório **profissional e pronto pra apresentação** 🚀
-Aqui está um README completo, organizado e explicativo para o seu projeto **page-blocks-UNIFOR**.
-
-Você pode **copiar e colar direto no README.md do GitHub**.
 
 ---
 
