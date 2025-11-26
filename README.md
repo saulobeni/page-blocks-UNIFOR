@@ -1,8 +1,3 @@
-
----
-
-# 📄 README.md — *page-blocks-UNIFOR*
-
 ````markdown
 # 📊 Page Blocks Classification — UNIFOR
 
@@ -202,21 +197,3 @@ Disciplina: Inteligência Artificial Computacional
 ---
 
 ````
-
----
-
-# ✅ Agora só faça no terminal:
-
-```bash
-code README.md
-````
-
-Cole esse conteúdo, salve e depois:
-
-```bash
-git add README.md
-git commit -m "Adiciona README documentado"
-git push
-```
-
----
