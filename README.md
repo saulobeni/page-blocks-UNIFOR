@@ -1,4 +1,3 @@
-````markdown
 # 📊 Page Blocks Classification — UNIFOR
 
 Projeto individual desenvolvido na disciplina **Inteligência Artificial Computacional**  
@@ -195,5 +194,3 @@ Disciplina: Inteligência Artificial Computacional
 ✔️ Código didático e acadêmico
 
 ---
-
-````
